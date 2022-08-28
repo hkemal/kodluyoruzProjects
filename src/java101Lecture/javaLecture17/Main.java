@@ -1,4 +1,4 @@
-package javaLecture.javaLecture17;
+package java101Lecture.javaLecture17;
 
 import java.util.Scanner;
 
