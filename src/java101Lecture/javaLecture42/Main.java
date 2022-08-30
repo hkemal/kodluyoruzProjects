@@ -11,8 +11,8 @@ public class Main {
         System.out.println("Üst olacak sayıyı giriniz : ");
         int k = input.nextInt();
 
-        int result = n;
-        for (int i = 1; i < k; i++) {
+        int result = 1;
+        for (int i = 1; i <= k; i++) {
             result *= n;
         }
         System.out.println(result);
