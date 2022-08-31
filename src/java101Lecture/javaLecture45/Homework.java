@@ -6,9 +6,8 @@ public class Homework {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Basamak sayısını giriniz : ");
+        System.out.print("Bir sayı giriniz : ");
         int number = input.nextInt();
-        number /= 2;
 
         for (int i = 1; i <= number; i++) {
             for (int j = 1; j <= number - i; j++) {
@@ -19,11 +18,11 @@ public class Homework {
             }
             System.out.print("\n");
         }
-        for (int i = 1; i <= number; i++) {
-            for (int j = 1; j <= i; j++) {
+        for (int i = number - 1; i >= 1; i--) {
+            for (int j = i; j <= number - 1; j++) {
                 System.out.print(" ");
             }
-            for (int j = number - 1; j >= (2 * i - 4); j--) {
+            for (int j = 1; j <= 2 * i - 1; j++) {
                 System.out.print("*");
             }
             System.out.print("\n");
