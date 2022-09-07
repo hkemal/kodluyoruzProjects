@@ -3,7 +3,7 @@ package java101Lecture.homework.hw15;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Man {
+public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Dizinin boyutu : ");
