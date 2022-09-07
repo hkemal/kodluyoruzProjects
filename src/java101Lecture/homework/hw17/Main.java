@@ -19,6 +19,7 @@ public class Main {
                 newArr[j][i] = temp;
             }
         }
+        System.out.println("Transpoze : ");
         for (int[] item : newArr) {
             for (int innerItem : item) {
                 System.out.print(innerItem + " ");
