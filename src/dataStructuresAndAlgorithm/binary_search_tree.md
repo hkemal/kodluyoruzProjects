@@ -8,3 +8,6 @@ Root 7'dir.Root'un sağında 8, solunda 5 bulunur.
 *_1'in solunda 0, sağında 3 bulunur._*
 
 *_3'in solunda 2, sağında 4 bulunur._*
+
+### For visualization
+(https://www.cs.usfca.edu/~galles/visualization/BST.html)
