@@ -1,4 +1,4 @@
-package java102lecture.A01AccessModifierAndStatic.lecture1_4_finalKeyWord;
+package java102lecture.A01AccessModifierAndStatic.lecture_1_4_finalKeyWord;
 
 public class Daire {
     public int r;
