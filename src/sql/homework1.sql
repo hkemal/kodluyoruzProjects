@@ -8,10 +8,10 @@ SELECT * FROM film
 WHERE rental_rate = 0.99
 AND (replacement_cost = 12.99 OR replacement_cost = 28.99);
 
-SELECT *  FROM customer
+SELECT first_name, last_name  FROM customer
 WHERE first_name = 'Mary';
+--Smith
 
 SELECT * FROM film
-WHERE NOT LENGTH > 50
-AND rental_rate = 2.99
-OR rental_rate = 4.99;
+WHERE LENGTH < 50
+AND (rental_rate != 2.99 OR rental_rate != 4.99);
