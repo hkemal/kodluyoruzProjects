@@ -1,4 +1,4 @@
-package java102lecture.A05Collections.lecture_5_11Linked_HashMap_and_TreeMap;
+package java102lecture.A05Collections.lecture_5_11_Linked_HashMap_and_TreeMap;
 
 import java.util.Comparator;
 
