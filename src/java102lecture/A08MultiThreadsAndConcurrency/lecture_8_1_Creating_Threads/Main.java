@@ -1,4 +1,4 @@
-package java102lecture.A08_MultiThreads_And_Concurrency.lecture_8_1_Creating_Threads;
+package java102lecture.A08MultiThreadsAndConcurrency.lecture_8_1_Creating_Threads;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java102lecture.A08_MultiThreads_And_Concurrency.lecture_8_2_Runnable_Interface;
+package java102lecture.A08MultiThreadsAndConcurrency.lecture_8_2_Runnable_Interface;
 
 public class Main {
     public static void main(String[] args) {
