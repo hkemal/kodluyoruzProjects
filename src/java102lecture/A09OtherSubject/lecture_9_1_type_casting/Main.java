@@ -1,4 +1,4 @@
-package java102lecture.A09OtherSubject.TypeCasting;
+package java102lecture.A09OtherSubject.lecture_9_1_type_casting;
 
 public class Main {
     public static void main(String[] args) {
