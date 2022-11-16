@@ -2,7 +2,7 @@ create table employee (
 	id INT,
 	name VARCHAR(50),
 	birth_date DATE,
-	email VARCHAR(50)
+	email VARCHAR(100)
 );
 ----------------------
 insert into employee (id, name, birth_date, email) values (1, 'Lidia', '6/2/2022', 'ltann0@t-online.de');
